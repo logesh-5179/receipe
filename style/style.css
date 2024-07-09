@@ -1,0 +1,38 @@
+/* 
+* {
+    margin: 0;
+    padding: 0;
+}
+*/ 
+
+.header, h1 {
+    background-color: cadetblue;
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 1px;
+    position: static;
+    height: 60px;
+}
+
+body {
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+
+.cont, .cont2, .cont3 {
+    padding-top: 10px;
+    justify-content: center;
+    padding-left: 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 2px 1px 0px 0px;
+    background-color: aliceblue;
+    width: 70%;
+    margin: 0 auto; 
+}
+
+h3 {
+    color: crimson;
+    padding-top: 1px;
+}
